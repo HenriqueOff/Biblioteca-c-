@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1715956565 source:c:\users\ra191987\desktop\nova pasta\biblioteca\main.cpp
+	<iostream>
+	<vector>
+	"Book.h"
+	"User.h"
+	"Loan.h"
+	"AVLTree.h"
+	<locale.h>
+
+1715956548 c:\users\ra191987\desktop\nova pasta\biblioteca\book.h
+	<string>
+
+1715954662 c:\users\ra191987\desktop\nova pasta\biblioteca\user.h
+	<string>
+
+1715954659 c:\users\ra191987\desktop\nova pasta\biblioteca\loan.h
+	<string>
+
+1715955942 c:\users\ra191987\desktop\nova pasta\biblioteca\avltree.h
+	"Book.h"
+	"User.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1716246461 source:c:\users\ra191987\desktop\codeblocks\main.cpp
+	<iostream>
+	<vector>
+	"Book.h"
+	"User.h"
+	"Loan.h"
+	"AVLTree.h"
+	<locale.h>
+
+1716246461 c:\users\ra191987\desktop\codeblocks\book.h
+	<string>
+
+1716246461 c:\users\ra191987\desktop\codeblocks\user.h
+	<string>
+
+1716246461 c:\users\ra191987\desktop\codeblocks\loan.h
+	<string>
+
+1716246461 c:\users\ra191987\desktop\codeblocks\avltree.h
+	"Book.h"
+	"User.h"
+	<iostream>
+	<string>
+	<algorithm>
+
